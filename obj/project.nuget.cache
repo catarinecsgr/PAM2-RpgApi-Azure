@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "seCEjnp/Se0=",
+  "dgSpecHash": "lXPuxSoPza0=",
   "success": true,
-  "projectFilePath": "D:\\Catarine & Samuel\\PAM2\\RpgApi\\RpgApi.csproj",
+  "projectFilePath": "d:\\Catarine & Samuel\\PAM2\\RpgApi 20.08\\RpgApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
